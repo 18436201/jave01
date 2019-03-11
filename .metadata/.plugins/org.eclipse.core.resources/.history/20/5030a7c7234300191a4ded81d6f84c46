@@ -1,0 +1,12 @@
+package com.yychatclient.view;
+
+public class ClientLogin {
+ public  ClientLogin(){
+	
+}
+	public static void main(String[] args) {
+	ClientLogin  ClientLongin=new ClientLogin(); 
+
+	}
+
+}
